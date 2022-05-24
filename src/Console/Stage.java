@@ -9,6 +9,11 @@ public class Stage {
 		System.out.println("Second stage");
 		
 		System.out.println("Third stage");
+		
+		int x = 50;
+		int y  = 90;
+		
+		System.out.println(x * y);
 	}
 
 }
