@@ -7,6 +7,8 @@ public class Stage {
 		System.out.println("Welcome to mario game stage 1");
 		
 		System.out.println("Second stage");
+		
+		System.out.println("Third stage");
 	}
 
 }
